@@ -2,14 +2,18 @@ Convertisseur schématique
 
 Un outil pour convertir "Minecraft Schematics" en format blueprint utilisé par Colony Survival.
 
-Télécharger: https://github.com/Log234/Schematic-Converter/releases
-
+<a href="[https://github.com/Log234/Schematic-Converter/releases">
+  <kbd>➔ Télécharger</kbd>
+</a>
+ 
 Comment l'utiliser:
 
 
 Première configuration
 
-Téléchargez la dernière version (Le fichier .jar): https://github.com/Log234/Schematic-Converter/releases
+<a href="[https://github.com/Log234/Schematic-Converter/releases">
+  <kbd>➔ Téléchargez la dernière version (Le fichier .jar)</kbd>
+</a>
 
 1. Placez-le dans un dossier vide.
 2. Double-cliquez sur le fichier pour l'exécuter.
